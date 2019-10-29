@@ -1,0 +1,10 @@
+C:\wamp64\www\UDEMY\c#\Aula75ForEach\Aula75ForEach\bin\Debug\netcoreapp2.1\Aula75ForEach.deps.json
+C:\wamp64\www\UDEMY\c#\Aula75ForEach\Aula75ForEach\bin\Debug\netcoreapp2.1\Aula75ForEach.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula75ForEach\Aula75ForEach\bin\Debug\netcoreapp2.1\Aula75ForEach.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula75ForEach\Aula75ForEach\bin\Debug\netcoreapp2.1\Aula75ForEach.dll
+C:\wamp64\www\UDEMY\c#\Aula75ForEach\Aula75ForEach\bin\Debug\netcoreapp2.1\Aula75ForEach.pdb
+C:\wamp64\www\UDEMY\c#\Aula75ForEach\Aula75ForEach\obj\Debug\netcoreapp2.1\Aula75ForEach.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula75ForEach\Aula75ForEach\obj\Debug\netcoreapp2.1\Aula75ForEach.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula75ForEach\Aula75ForEach\obj\Debug\netcoreapp2.1\Aula75ForEach.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula75ForEach\Aula75ForEach\obj\Debug\netcoreapp2.1\Aula75ForEach.dll
+C:\wamp64\www\UDEMY\c#\Aula75ForEach\Aula75ForEach\obj\Debug\netcoreapp2.1\Aula75ForEach.pdb

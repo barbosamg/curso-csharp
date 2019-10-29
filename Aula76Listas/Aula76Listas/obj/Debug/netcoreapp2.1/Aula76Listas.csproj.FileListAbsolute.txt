@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula76Listas\Aula76Listas\bin\Debug\netcoreapp2.1\Aula76Listas.deps.json
+C:\wamp64\www\UDEMY\c#\Aula76Listas\Aula76Listas\bin\Debug\netcoreapp2.1\Aula76Listas.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula76Listas\Aula76Listas\bin\Debug\netcoreapp2.1\Aula76Listas.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula76Listas\Aula76Listas\bin\Debug\netcoreapp2.1\Aula76Listas.dll
+C:\wamp64\www\UDEMY\c#\Aula76Listas\Aula76Listas\bin\Debug\netcoreapp2.1\Aula76Listas.pdb
+C:\wamp64\www\UDEMY\c#\Aula76Listas\Aula76Listas\obj\Debug\netcoreapp2.1\Aula76Listas.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\Aula76Listas\Aula76Listas\obj\Debug\netcoreapp2.1\Aula76Listas.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula76Listas\Aula76Listas\obj\Debug\netcoreapp2.1\Aula76Listas.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula76Listas\Aula76Listas\obj\Debug\netcoreapp2.1\Aula76Listas.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula76Listas\Aula76Listas\obj\Debug\netcoreapp2.1\Aula76Listas.dll
+C:\wamp64\www\UDEMY\c#\Aula76Listas\Aula76Listas\obj\Debug\netcoreapp2.1\Aula76Listas.pdb

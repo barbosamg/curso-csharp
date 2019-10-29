@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula60ExercicioBanco\Aula60ExercicioBanco\bin\Debug\netcoreapp2.1\Aula60ExercicioBanco.deps.json
+C:\wamp64\www\UDEMY\c#\Aula60ExercicioBanco\Aula60ExercicioBanco\bin\Debug\netcoreapp2.1\Aula60ExercicioBanco.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula60ExercicioBanco\Aula60ExercicioBanco\bin\Debug\netcoreapp2.1\Aula60ExercicioBanco.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula60ExercicioBanco\Aula60ExercicioBanco\bin\Debug\netcoreapp2.1\Aula60ExercicioBanco.dll
+C:\wamp64\www\UDEMY\c#\Aula60ExercicioBanco\Aula60ExercicioBanco\bin\Debug\netcoreapp2.1\Aula60ExercicioBanco.pdb
+C:\wamp64\www\UDEMY\c#\Aula60ExercicioBanco\Aula60ExercicioBanco\obj\Debug\netcoreapp2.1\Aula60ExercicioBanco.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\Aula60ExercicioBanco\Aula60ExercicioBanco\obj\Debug\netcoreapp2.1\Aula60ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula60ExercicioBanco\Aula60ExercicioBanco\obj\Debug\netcoreapp2.1\Aula60ExercicioBanco.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula60ExercicioBanco\Aula60ExercicioBanco\obj\Debug\netcoreapp2.1\Aula60ExercicioBanco.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula60ExercicioBanco\Aula60ExercicioBanco\obj\Debug\netcoreapp2.1\Aula60ExercicioBanco.dll
+C:\wamp64\www\UDEMY\c#\Aula60ExercicioBanco\Aula60ExercicioBanco\obj\Debug\netcoreapp2.1\Aula60ExercicioBanco.pdb

@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula82Conjunto\Aula82Conjunto\bin\Debug\netcoreapp2.1\Aula82Conjunto.deps.json
+C:\wamp64\www\UDEMY\c#\Aula82Conjunto\Aula82Conjunto\bin\Debug\netcoreapp2.1\Aula82Conjunto.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula82Conjunto\Aula82Conjunto\bin\Debug\netcoreapp2.1\Aula82Conjunto.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula82Conjunto\Aula82Conjunto\bin\Debug\netcoreapp2.1\Aula82Conjunto.dll
+C:\wamp64\www\UDEMY\c#\Aula82Conjunto\Aula82Conjunto\bin\Debug\netcoreapp2.1\Aula82Conjunto.pdb
+C:\wamp64\www\UDEMY\c#\Aula82Conjunto\Aula82Conjunto\obj\Debug\netcoreapp2.1\Aula82Conjunto.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\Aula82Conjunto\Aula82Conjunto\obj\Debug\netcoreapp2.1\Aula82Conjunto.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula82Conjunto\Aula82Conjunto\obj\Debug\netcoreapp2.1\Aula82Conjunto.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula82Conjunto\Aula82Conjunto\obj\Debug\netcoreapp2.1\Aula82Conjunto.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula82Conjunto\Aula82Conjunto\obj\Debug\netcoreapp2.1\Aula82Conjunto.dll
+C:\wamp64\www\UDEMY\c#\Aula82Conjunto\Aula82Conjunto\obj\Debug\netcoreapp2.1\Aula82Conjunto.pdb

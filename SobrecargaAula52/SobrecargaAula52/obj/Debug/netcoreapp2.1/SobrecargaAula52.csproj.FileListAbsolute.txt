@@ -1,0 +1,10 @@
+C:\wamp64\www\UDEMY\c#\SobrecargaAula52\SobrecargaAula52\bin\Debug\netcoreapp2.1\SobrecargaAula52.deps.json
+C:\wamp64\www\UDEMY\c#\SobrecargaAula52\SobrecargaAula52\bin\Debug\netcoreapp2.1\SobrecargaAula52.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\SobrecargaAula52\SobrecargaAula52\bin\Debug\netcoreapp2.1\SobrecargaAula52.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\SobrecargaAula52\SobrecargaAula52\bin\Debug\netcoreapp2.1\SobrecargaAula52.dll
+C:\wamp64\www\UDEMY\c#\SobrecargaAula52\SobrecargaAula52\bin\Debug\netcoreapp2.1\SobrecargaAula52.pdb
+C:\wamp64\www\UDEMY\c#\SobrecargaAula52\SobrecargaAula52\obj\Debug\netcoreapp2.1\SobrecargaAula52.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\SobrecargaAula52\SobrecargaAula52\obj\Debug\netcoreapp2.1\SobrecargaAula52.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\SobrecargaAula52\SobrecargaAula52\obj\Debug\netcoreapp2.1\SobrecargaAula52.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\SobrecargaAula52\SobrecargaAula52\obj\Debug\netcoreapp2.1\SobrecargaAula52.dll
+C:\wamp64\www\UDEMY\c#\SobrecargaAula52\SobrecargaAula52\obj\Debug\netcoreapp2.1\SobrecargaAula52.pdb

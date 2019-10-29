@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\secao11\Aula142ExcecaoPersonalizada\Aula142ExcecaoPersonalizada\bin\Debug\netcoreapp2.1\Aula142ExcecaoPersonalizada.deps.json
+C:\wamp64\www\UDEMY\c#\secao11\Aula142ExcecaoPersonalizada\Aula142ExcecaoPersonalizada\bin\Debug\netcoreapp2.1\Aula142ExcecaoPersonalizada.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao11\Aula142ExcecaoPersonalizada\Aula142ExcecaoPersonalizada\bin\Debug\netcoreapp2.1\Aula142ExcecaoPersonalizada.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao11\Aula142ExcecaoPersonalizada\Aula142ExcecaoPersonalizada\bin\Debug\netcoreapp2.1\Aula142ExcecaoPersonalizada.dll
+C:\wamp64\www\UDEMY\c#\secao11\Aula142ExcecaoPersonalizada\Aula142ExcecaoPersonalizada\bin\Debug\netcoreapp2.1\Aula142ExcecaoPersonalizada.pdb
+C:\wamp64\www\UDEMY\c#\secao11\Aula142ExcecaoPersonalizada\Aula142ExcecaoPersonalizada\obj\Debug\netcoreapp2.1\Aula142ExcecaoPersonalizada.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\secao11\Aula142ExcecaoPersonalizada\Aula142ExcecaoPersonalizada\obj\Debug\netcoreapp2.1\Aula142ExcecaoPersonalizada.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao11\Aula142ExcecaoPersonalizada\Aula142ExcecaoPersonalizada\obj\Debug\netcoreapp2.1\Aula142ExcecaoPersonalizada.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao11\Aula142ExcecaoPersonalizada\Aula142ExcecaoPersonalizada\obj\Debug\netcoreapp2.1\Aula142ExcecaoPersonalizada.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao11\Aula142ExcecaoPersonalizada\Aula142ExcecaoPersonalizada\obj\Debug\netcoreapp2.1\Aula142ExcecaoPersonalizada.dll
+C:\wamp64\www\UDEMY\c#\secao11\Aula142ExcecaoPersonalizada\Aula142ExcecaoPersonalizada\obj\Debug\netcoreapp2.1\Aula142ExcecaoPersonalizada.pdb

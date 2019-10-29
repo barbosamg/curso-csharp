@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula48CotacaoDolar\Aula48CotacaoDolar\bin\Debug\netcoreapp2.1\Aula48CotacaoDolar.deps.json
+C:\wamp64\www\UDEMY\c#\Aula48CotacaoDolar\Aula48CotacaoDolar\bin\Debug\netcoreapp2.1\Aula48CotacaoDolar.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula48CotacaoDolar\Aula48CotacaoDolar\bin\Debug\netcoreapp2.1\Aula48CotacaoDolar.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula48CotacaoDolar\Aula48CotacaoDolar\bin\Debug\netcoreapp2.1\Aula48CotacaoDolar.dll
+C:\wamp64\www\UDEMY\c#\Aula48CotacaoDolar\Aula48CotacaoDolar\bin\Debug\netcoreapp2.1\Aula48CotacaoDolar.pdb
+C:\wamp64\www\UDEMY\c#\Aula48CotacaoDolar\Aula48CotacaoDolar\obj\Debug\netcoreapp2.1\Aula48CotacaoDolar.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\Aula48CotacaoDolar\Aula48CotacaoDolar\obj\Debug\netcoreapp2.1\Aula48CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula48CotacaoDolar\Aula48CotacaoDolar\obj\Debug\netcoreapp2.1\Aula48CotacaoDolar.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula48CotacaoDolar\Aula48CotacaoDolar\obj\Debug\netcoreapp2.1\Aula48CotacaoDolar.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula48CotacaoDolar\Aula48CotacaoDolar\obj\Debug\netcoreapp2.1\Aula48CotacaoDolar.dll
+C:\wamp64\www\UDEMY\c#\Aula48CotacaoDolar\Aula48CotacaoDolar\obj\Debug\netcoreapp2.1\Aula48CotacaoDolar.pdb

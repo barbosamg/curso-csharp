@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\secao09\Aula115Enumeracao\bin\Debug\netcoreapp2.2\Aula115Enumeracao.deps.json
+C:\wamp64\www\UDEMY\c#\secao09\Aula115Enumeracao\bin\Debug\netcoreapp2.2\Aula115Enumeracao.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao09\Aula115Enumeracao\bin\Debug\netcoreapp2.2\Aula115Enumeracao.runtimeconfig.dev.json
+c:\wamp64\www\UDEMY\c#\secao09\Aula115Enumeracao\bin\Debug\netcoreapp2.2\Aula115Enumeracao.dll
+c:\wamp64\www\UDEMY\c#\secao09\Aula115Enumeracao\bin\Debug\netcoreapp2.2\Aula115Enumeracao.pdb
+c:\wamp64\www\UDEMY\c#\secao09\Aula115Enumeracao\obj\Debug\netcoreapp2.2\Aula115Enumeracao.csprojAssemblyReference.cache
+c:\wamp64\www\UDEMY\c#\secao09\Aula115Enumeracao\obj\Debug\netcoreapp2.2\Aula115Enumeracao.csproj.CoreCompileInputs.cache
+c:\wamp64\www\UDEMY\c#\secao09\Aula115Enumeracao\obj\Debug\netcoreapp2.2\Aula115Enumeracao.AssemblyInfoInputs.cache
+c:\wamp64\www\UDEMY\c#\secao09\Aula115Enumeracao\obj\Debug\netcoreapp2.2\Aula115Enumeracao.AssemblyInfo.cs
+c:\wamp64\www\UDEMY\c#\secao09\Aula115Enumeracao\obj\Debug\netcoreapp2.2\Aula115Enumeracao.dll
+c:\wamp64\www\UDEMY\c#\secao09\Aula115Enumeracao\obj\Debug\netcoreapp2.2\Aula115Enumeracao.pdb

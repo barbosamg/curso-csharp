@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\secao09\Aula122Exercicio\Aula122Exercicio\bin\Debug\netcoreapp2.1\Aula122Exercicio.deps.json
+C:\wamp64\www\UDEMY\c#\secao09\Aula122Exercicio\Aula122Exercicio\bin\Debug\netcoreapp2.1\Aula122Exercicio.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao09\Aula122Exercicio\Aula122Exercicio\bin\Debug\netcoreapp2.1\Aula122Exercicio.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao09\Aula122Exercicio\Aula122Exercicio\bin\Debug\netcoreapp2.1\Aula122Exercicio.dll
+C:\wamp64\www\UDEMY\c#\secao09\Aula122Exercicio\Aula122Exercicio\bin\Debug\netcoreapp2.1\Aula122Exercicio.pdb
+C:\wamp64\www\UDEMY\c#\secao09\Aula122Exercicio\Aula122Exercicio\obj\Debug\netcoreapp2.1\Aula122Exercicio.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\secao09\Aula122Exercicio\Aula122Exercicio\obj\Debug\netcoreapp2.1\Aula122Exercicio.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao09\Aula122Exercicio\Aula122Exercicio\obj\Debug\netcoreapp2.1\Aula122Exercicio.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao09\Aula122Exercicio\Aula122Exercicio\obj\Debug\netcoreapp2.1\Aula122Exercicio.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao09\Aula122Exercicio\Aula122Exercicio\obj\Debug\netcoreapp2.1\Aula122Exercicio.dll
+C:\wamp64\www\UDEMY\c#\secao09\Aula122Exercicio\Aula122Exercicio\obj\Debug\netcoreapp2.1\Aula122Exercicio.pdb

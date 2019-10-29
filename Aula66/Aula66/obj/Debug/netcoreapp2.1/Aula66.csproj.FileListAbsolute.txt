@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula66\Aula66\bin\Debug\netcoreapp2.1\Aula66.deps.json
+C:\wamp64\www\UDEMY\c#\Aula66\Aula66\bin\Debug\netcoreapp2.1\Aula66.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula66\Aula66\bin\Debug\netcoreapp2.1\Aula66.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula66\Aula66\bin\Debug\netcoreapp2.1\Aula66.dll
+C:\wamp64\www\UDEMY\c#\Aula66\Aula66\bin\Debug\netcoreapp2.1\Aula66.pdb
+C:\wamp64\www\UDEMY\c#\Aula66\Aula66\obj\Debug\netcoreapp2.1\Aula66.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\Aula66\Aula66\obj\Debug\netcoreapp2.1\Aula66.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula66\Aula66\obj\Debug\netcoreapp2.1\Aula66.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula66\Aula66\obj\Debug\netcoreapp2.1\Aula66.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula66\Aula66\obj\Debug\netcoreapp2.1\Aula66.dll
+C:\wamp64\www\UDEMY\c#\Aula66\Aula66\obj\Debug\netcoreapp2.1\Aula66.pdb

@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula92OperacoesDateTime\bin\Debug\netcoreapp2.2\Aula92OperacoesDateTime.deps.json
+C:\wamp64\www\UDEMY\c#\Aula92OperacoesDateTime\bin\Debug\netcoreapp2.2\Aula92OperacoesDateTime.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula92OperacoesDateTime\bin\Debug\netcoreapp2.2\Aula92OperacoesDateTime.runtimeconfig.dev.json
+c:\wamp64\www\UDEMY\c#\Aula92OperacoesDateTime\bin\Debug\netcoreapp2.2\Aula92OperacoesDateTime.dll
+c:\wamp64\www\UDEMY\c#\Aula92OperacoesDateTime\bin\Debug\netcoreapp2.2\Aula92OperacoesDateTime.pdb
+c:\wamp64\www\UDEMY\c#\Aula92OperacoesDateTime\obj\Debug\netcoreapp2.2\Aula92OperacoesDateTime.csprojAssemblyReference.cache
+c:\wamp64\www\UDEMY\c#\Aula92OperacoesDateTime\obj\Debug\netcoreapp2.2\Aula92OperacoesDateTime.csproj.CoreCompileInputs.cache
+c:\wamp64\www\UDEMY\c#\Aula92OperacoesDateTime\obj\Debug\netcoreapp2.2\Aula92OperacoesDateTime.AssemblyInfoInputs.cache
+c:\wamp64\www\UDEMY\c#\Aula92OperacoesDateTime\obj\Debug\netcoreapp2.2\Aula92OperacoesDateTime.AssemblyInfo.cs
+c:\wamp64\www\UDEMY\c#\Aula92OperacoesDateTime\obj\Debug\netcoreapp2.2\Aula92OperacoesDateTime.dll
+c:\wamp64\www\UDEMY\c#\Aula92OperacoesDateTime\obj\Debug\netcoreapp2.2\Aula92OperacoesDateTime.pdb

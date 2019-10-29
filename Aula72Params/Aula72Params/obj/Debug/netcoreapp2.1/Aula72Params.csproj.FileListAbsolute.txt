@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula72Params\Aula72Params\bin\Debug\netcoreapp2.1\Aula72Params.deps.json
+C:\wamp64\www\UDEMY\c#\Aula72Params\Aula72Params\bin\Debug\netcoreapp2.1\Aula72Params.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula72Params\Aula72Params\bin\Debug\netcoreapp2.1\Aula72Params.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula72Params\Aula72Params\bin\Debug\netcoreapp2.1\Aula72Params.dll
+C:\wamp64\www\UDEMY\c#\Aula72Params\Aula72Params\bin\Debug\netcoreapp2.1\Aula72Params.pdb
+C:\wamp64\www\UDEMY\c#\Aula72Params\Aula72Params\obj\Debug\netcoreapp2.1\Aula72Params.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\Aula72Params\Aula72Params\obj\Debug\netcoreapp2.1\Aula72Params.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula72Params\Aula72Params\obj\Debug\netcoreapp2.1\Aula72Params.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula72Params\Aula72Params\obj\Debug\netcoreapp2.1\Aula72Params.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula72Params\Aula72Params\obj\Debug\netcoreapp2.1\Aula72Params.dll
+C:\wamp64\www\UDEMY\c#\Aula72Params\Aula72Params\obj\Debug\netcoreapp2.1\Aula72Params.pdb

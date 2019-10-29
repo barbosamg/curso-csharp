@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\secao09\Aula121StringBuilder\Aula121StringBuilder\bin\Debug\netcoreapp2.1\Aula121StringBuilder.deps.json
+C:\wamp64\www\UDEMY\c#\secao09\Aula121StringBuilder\Aula121StringBuilder\bin\Debug\netcoreapp2.1\Aula121StringBuilder.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao09\Aula121StringBuilder\Aula121StringBuilder\bin\Debug\netcoreapp2.1\Aula121StringBuilder.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao09\Aula121StringBuilder\Aula121StringBuilder\bin\Debug\netcoreapp2.1\Aula121StringBuilder.dll
+C:\wamp64\www\UDEMY\c#\secao09\Aula121StringBuilder\Aula121StringBuilder\bin\Debug\netcoreapp2.1\Aula121StringBuilder.pdb
+C:\wamp64\www\UDEMY\c#\secao09\Aula121StringBuilder\Aula121StringBuilder\obj\Debug\netcoreapp2.1\Aula121StringBuilder.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\secao09\Aula121StringBuilder\Aula121StringBuilder\obj\Debug\netcoreapp2.1\Aula121StringBuilder.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao09\Aula121StringBuilder\Aula121StringBuilder\obj\Debug\netcoreapp2.1\Aula121StringBuilder.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao09\Aula121StringBuilder\Aula121StringBuilder\obj\Debug\netcoreapp2.1\Aula121StringBuilder.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao09\Aula121StringBuilder\Aula121StringBuilder\obj\Debug\netcoreapp2.1\Aula121StringBuilder.dll
+C:\wamp64\www\UDEMY\c#\secao09\Aula121StringBuilder\Aula121StringBuilder\obj\Debug\netcoreapp2.1\Aula121StringBuilder.pdb

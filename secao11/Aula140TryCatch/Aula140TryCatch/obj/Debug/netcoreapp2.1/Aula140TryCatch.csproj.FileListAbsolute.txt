@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\secao11\Aula140TryCatch\Aula140TryCatch\bin\Debug\netcoreapp2.1\Aula140TryCatch.deps.json
+C:\wamp64\www\UDEMY\c#\secao11\Aula140TryCatch\Aula140TryCatch\bin\Debug\netcoreapp2.1\Aula140TryCatch.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao11\Aula140TryCatch\Aula140TryCatch\bin\Debug\netcoreapp2.1\Aula140TryCatch.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao11\Aula140TryCatch\Aula140TryCatch\bin\Debug\netcoreapp2.1\Aula140TryCatch.dll
+C:\wamp64\www\UDEMY\c#\secao11\Aula140TryCatch\Aula140TryCatch\bin\Debug\netcoreapp2.1\Aula140TryCatch.pdb
+C:\wamp64\www\UDEMY\c#\secao11\Aula140TryCatch\Aula140TryCatch\obj\Debug\netcoreapp2.1\Aula140TryCatch.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\secao11\Aula140TryCatch\Aula140TryCatch\obj\Debug\netcoreapp2.1\Aula140TryCatch.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao11\Aula140TryCatch\Aula140TryCatch\obj\Debug\netcoreapp2.1\Aula140TryCatch.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao11\Aula140TryCatch\Aula140TryCatch\obj\Debug\netcoreapp2.1\Aula140TryCatch.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao11\Aula140TryCatch\Aula140TryCatch\obj\Debug\netcoreapp2.1\Aula140TryCatch.dll
+C:\wamp64\www\UDEMY\c#\secao11\Aula140TryCatch\Aula140TryCatch\obj\Debug\netcoreapp2.1\Aula140TryCatch.pdb

@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\netcoreapp2.1\Aula46MembrosEstaticos.deps.json
+C:\wamp64\www\UDEMY\c#\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\netcoreapp2.1\Aula46MembrosEstaticos.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\netcoreapp2.1\Aula46MembrosEstaticos.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\netcoreapp2.1\Aula46MembrosEstaticos.dll
+C:\wamp64\www\UDEMY\c#\Aula46MembrosEstaticos\Aula46MembrosEstaticos\bin\Debug\netcoreapp2.1\Aula46MembrosEstaticos.pdb
+C:\wamp64\www\UDEMY\c#\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\netcoreapp2.1\Aula46MembrosEstaticos.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\netcoreapp2.1\Aula46MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\netcoreapp2.1\Aula46MembrosEstaticos.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\netcoreapp2.1\Aula46MembrosEstaticos.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\netcoreapp2.1\Aula46MembrosEstaticos.dll
+C:\wamp64\www\UDEMY\c#\Aula46MembrosEstaticos\Aula46MembrosEstaticos\obj\Debug\netcoreapp2.1\Aula46MembrosEstaticos.pdb

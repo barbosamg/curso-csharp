@@ -1,0 +1,10 @@
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Properties\bin\Debug\netcoreapp2.1\Properties.deps.json
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Properties\bin\Debug\netcoreapp2.1\Properties.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Properties\bin\Debug\netcoreapp2.1\Properties.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Properties\bin\Debug\netcoreapp2.1\Properties.dll
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Properties\bin\Debug\netcoreapp2.1\Properties.pdb
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Properties\obj\Debug\netcoreapp2.1\Properties.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Properties\obj\Debug\netcoreapp2.1\Properties.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Properties\obj\Debug\netcoreapp2.1\Properties.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Properties\obj\Debug\netcoreapp2.1\Properties.dll
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Properties\obj\Debug\netcoreapp2.1\Properties.pdb

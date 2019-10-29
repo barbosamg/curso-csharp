@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\secao13\Aula189Exercicio\Aula189Exercicio\bin\Debug\netcoreapp2.1\Aula189Exercicio.deps.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula189Exercicio\Aula189Exercicio\bin\Debug\netcoreapp2.1\Aula189Exercicio.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula189Exercicio\Aula189Exercicio\bin\Debug\netcoreapp2.1\Aula189Exercicio.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula189Exercicio\Aula189Exercicio\bin\Debug\netcoreapp2.1\Aula189Exercicio.dll
+C:\wamp64\www\UDEMY\c#\secao13\Aula189Exercicio\Aula189Exercicio\bin\Debug\netcoreapp2.1\Aula189Exercicio.pdb
+C:\wamp64\www\UDEMY\c#\secao13\Aula189Exercicio\Aula189Exercicio\obj\Debug\netcoreapp2.1\Aula189Exercicio.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula189Exercicio\Aula189Exercicio\obj\Debug\netcoreapp2.1\Aula189Exercicio.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula189Exercicio\Aula189Exercicio\obj\Debug\netcoreapp2.1\Aula189Exercicio.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula189Exercicio\Aula189Exercicio\obj\Debug\netcoreapp2.1\Aula189Exercicio.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao13\Aula189Exercicio\Aula189Exercicio\obj\Debug\netcoreapp2.1\Aula189Exercicio.dll
+C:\wamp64\www\UDEMY\c#\secao13\Aula189Exercicio\Aula189Exercicio\obj\Debug\netcoreapp2.1\Aula189Exercicio.pdb

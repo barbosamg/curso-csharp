@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\netcoreapp2.1\Aula55Encapsulamento.deps.json
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\netcoreapp2.1\Aula55Encapsulamento.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\netcoreapp2.1\Aula55Encapsulamento.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\netcoreapp2.1\Aula55Encapsulamento.dll
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Aula55Encapsulamento\bin\Debug\netcoreapp2.1\Aula55Encapsulamento.pdb
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\netcoreapp2.1\Aula55Encapsulamento.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\netcoreapp2.1\Aula55Encapsulamento.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\netcoreapp2.1\Aula55Encapsulamento.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\netcoreapp2.1\Aula55Encapsulamento.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\netcoreapp2.1\Aula55Encapsulamento.dll
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\Aula55Encapsulamento\obj\Debug\netcoreapp2.1\Aula55Encapsulamento.pdb

@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\secao13\Aula184FileStreamReader\Aula184FileStreamReader\bin\Debug\netcoreapp2.1\Aula184FileStreamReader.deps.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula184FileStreamReader\Aula184FileStreamReader\bin\Debug\netcoreapp2.1\Aula184FileStreamReader.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula184FileStreamReader\Aula184FileStreamReader\bin\Debug\netcoreapp2.1\Aula184FileStreamReader.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula184FileStreamReader\Aula184FileStreamReader\bin\Debug\netcoreapp2.1\Aula184FileStreamReader.dll
+C:\wamp64\www\UDEMY\c#\secao13\Aula184FileStreamReader\Aula184FileStreamReader\bin\Debug\netcoreapp2.1\Aula184FileStreamReader.pdb
+C:\wamp64\www\UDEMY\c#\secao13\Aula184FileStreamReader\Aula184FileStreamReader\obj\Debug\netcoreapp2.1\Aula184FileStreamReader.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula184FileStreamReader\Aula184FileStreamReader\obj\Debug\netcoreapp2.1\Aula184FileStreamReader.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula184FileStreamReader\Aula184FileStreamReader\obj\Debug\netcoreapp2.1\Aula184FileStreamReader.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula184FileStreamReader\Aula184FileStreamReader\obj\Debug\netcoreapp2.1\Aula184FileStreamReader.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao13\Aula184FileStreamReader\Aula184FileStreamReader\obj\Debug\netcoreapp2.1\Aula184FileStreamReader.dll
+C:\wamp64\www\UDEMY\c#\secao13\Aula184FileStreamReader\Aula184FileStreamReader\obj\Debug\netcoreapp2.1\Aula184FileStreamReader.pdb

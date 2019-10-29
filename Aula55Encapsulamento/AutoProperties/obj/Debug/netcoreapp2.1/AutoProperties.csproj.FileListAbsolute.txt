@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\AutoProperties\bin\Debug\netcoreapp2.1\AutoProperties.deps.json
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\AutoProperties\bin\Debug\netcoreapp2.1\AutoProperties.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\AutoProperties\bin\Debug\netcoreapp2.1\AutoProperties.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\AutoProperties\bin\Debug\netcoreapp2.1\AutoProperties.dll
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\AutoProperties\bin\Debug\netcoreapp2.1\AutoProperties.pdb
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\AutoProperties\obj\Debug\netcoreapp2.1\AutoProperties.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\AutoProperties\obj\Debug\netcoreapp2.1\AutoProperties.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\AutoProperties\obj\Debug\netcoreapp2.1\AutoProperties.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\AutoProperties\obj\Debug\netcoreapp2.1\AutoProperties.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\AutoProperties\obj\Debug\netcoreapp2.1\AutoProperties.dll
+C:\wamp64\www\UDEMY\c#\Aula55Encapsulamento\AutoProperties\obj\Debug\netcoreapp2.1\AutoProperties.pdb

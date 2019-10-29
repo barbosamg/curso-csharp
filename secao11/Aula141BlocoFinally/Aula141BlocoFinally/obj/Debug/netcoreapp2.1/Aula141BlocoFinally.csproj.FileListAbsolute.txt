@@ -1,0 +1,10 @@
+C:\wamp64\www\UDEMY\c#\secao11\Aula141BlocoFinally\Aula141BlocoFinally\bin\Debug\netcoreapp2.1\Aula141BlocoFinally.deps.json
+C:\wamp64\www\UDEMY\c#\secao11\Aula141BlocoFinally\Aula141BlocoFinally\bin\Debug\netcoreapp2.1\Aula141BlocoFinally.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao11\Aula141BlocoFinally\Aula141BlocoFinally\bin\Debug\netcoreapp2.1\Aula141BlocoFinally.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao11\Aula141BlocoFinally\Aula141BlocoFinally\bin\Debug\netcoreapp2.1\Aula141BlocoFinally.dll
+C:\wamp64\www\UDEMY\c#\secao11\Aula141BlocoFinally\Aula141BlocoFinally\bin\Debug\netcoreapp2.1\Aula141BlocoFinally.pdb
+C:\wamp64\www\UDEMY\c#\secao11\Aula141BlocoFinally\Aula141BlocoFinally\obj\Debug\netcoreapp2.1\Aula141BlocoFinally.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao11\Aula141BlocoFinally\Aula141BlocoFinally\obj\Debug\netcoreapp2.1\Aula141BlocoFinally.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao11\Aula141BlocoFinally\Aula141BlocoFinally\obj\Debug\netcoreapp2.1\Aula141BlocoFinally.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao11\Aula141BlocoFinally\Aula141BlocoFinally\obj\Debug\netcoreapp2.1\Aula141BlocoFinally.dll
+C:\wamp64\www\UDEMY\c#\secao11\Aula141BlocoFinally\Aula141BlocoFinally\obj\Debug\netcoreapp2.1\Aula141BlocoFinally.pdb

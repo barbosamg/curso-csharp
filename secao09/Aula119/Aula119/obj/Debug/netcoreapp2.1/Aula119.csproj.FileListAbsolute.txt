@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\Aula119\Aula119\bin\Debug\netcoreapp2.1\Aula119.deps.json
+C:\Users\mateu\source\repos\Aula119\Aula119\bin\Debug\netcoreapp2.1\Aula119.runtimeconfig.json
+C:\Users\mateu\source\repos\Aula119\Aula119\bin\Debug\netcoreapp2.1\Aula119.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\Aula119\Aula119\bin\Debug\netcoreapp2.1\Aula119.dll
+C:\Users\mateu\source\repos\Aula119\Aula119\bin\Debug\netcoreapp2.1\Aula119.pdb
+C:\Users\mateu\source\repos\Aula119\Aula119\obj\Debug\netcoreapp2.1\Aula119.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\Aula119\Aula119\obj\Debug\netcoreapp2.1\Aula119.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\Aula119\Aula119\obj\Debug\netcoreapp2.1\Aula119.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\Aula119\Aula119\obj\Debug\netcoreapp2.1\Aula119.AssemblyInfo.cs
+C:\Users\mateu\source\repos\Aula119\Aula119\obj\Debug\netcoreapp2.1\Aula119.dll
+C:\Users\mateu\source\repos\Aula119\Aula119\obj\Debug\netcoreapp2.1\Aula119.pdb

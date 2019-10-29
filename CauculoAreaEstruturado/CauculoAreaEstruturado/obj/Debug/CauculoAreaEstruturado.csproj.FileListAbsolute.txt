@@ -1,0 +1,7 @@
+D:\wamp\www\UDEMY\c#\CauculoAreaEstruturado\CauculoAreaEstruturado\bin\Debug\CauculoAreaEstruturado.exe.config
+D:\wamp\www\UDEMY\c#\CauculoAreaEstruturado\CauculoAreaEstruturado\bin\Debug\CauculoAreaEstruturado.exe
+D:\wamp\www\UDEMY\c#\CauculoAreaEstruturado\CauculoAreaEstruturado\bin\Debug\CauculoAreaEstruturado.pdb
+D:\wamp\www\UDEMY\c#\CauculoAreaEstruturado\CauculoAreaEstruturado\obj\Debug\CauculoAreaEstruturado.csprojAssemblyReference.cache
+D:\wamp\www\UDEMY\c#\CauculoAreaEstruturado\CauculoAreaEstruturado\obj\Debug\CauculoAreaEstruturado.csproj.CoreCompileInputs.cache
+D:\wamp\www\UDEMY\c#\CauculoAreaEstruturado\CauculoAreaEstruturado\obj\Debug\CauculoAreaEstruturado.exe
+D:\wamp\www\UDEMY\c#\CauculoAreaEstruturado\CauculoAreaEstruturado\obj\Debug\CauculoAreaEstruturado.pdb

@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula93OperacoesTimeSpan\bin\Debug\netcoreapp2.2\Aula93OperacoesTimeSpan.deps.json
+C:\wamp64\www\UDEMY\c#\Aula93OperacoesTimeSpan\bin\Debug\netcoreapp2.2\Aula93OperacoesTimeSpan.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula93OperacoesTimeSpan\bin\Debug\netcoreapp2.2\Aula93OperacoesTimeSpan.runtimeconfig.dev.json
+c:\wamp64\www\UDEMY\c#\Aula93OperacoesTimeSpan\bin\Debug\netcoreapp2.2\Aula93OperacoesTimeSpan.dll
+c:\wamp64\www\UDEMY\c#\Aula93OperacoesTimeSpan\bin\Debug\netcoreapp2.2\Aula93OperacoesTimeSpan.pdb
+c:\wamp64\www\UDEMY\c#\Aula93OperacoesTimeSpan\obj\Debug\netcoreapp2.2\Aula93OperacoesTimeSpan.csprojAssemblyReference.cache
+c:\wamp64\www\UDEMY\c#\Aula93OperacoesTimeSpan\obj\Debug\netcoreapp2.2\Aula93OperacoesTimeSpan.csproj.CoreCompileInputs.cache
+c:\wamp64\www\UDEMY\c#\Aula93OperacoesTimeSpan\obj\Debug\netcoreapp2.2\Aula93OperacoesTimeSpan.AssemblyInfoInputs.cache
+c:\wamp64\www\UDEMY\c#\Aula93OperacoesTimeSpan\obj\Debug\netcoreapp2.2\Aula93OperacoesTimeSpan.AssemblyInfo.cs
+c:\wamp64\www\UDEMY\c#\Aula93OperacoesTimeSpan\obj\Debug\netcoreapp2.2\Aula93OperacoesTimeSpan.dll
+c:\wamp64\www\UDEMY\c#\Aula93OperacoesTimeSpan\obj\Debug\netcoreapp2.2\Aula93OperacoesTimeSpan.pdb

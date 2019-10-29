@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaAula52", "SobrecargaAula52\SobrecargaAula52.csproj", "{C8C6D60C-B3ED-4A24-8D11-1C6B9D884964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C6D60C-B3ED-4A24-8D11-1C6B9D884964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C6D60C-B3ED-4A24-8D11-1C6B9D884964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C6D60C-B3ED-4A24-8D11-1C6B9D884964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C6D60C-B3ED-4A24-8D11-1C6B9D884964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC840EE-C471-406E-BC56-92319C48C113}
+	EndGlobalSection
+EndGlobal

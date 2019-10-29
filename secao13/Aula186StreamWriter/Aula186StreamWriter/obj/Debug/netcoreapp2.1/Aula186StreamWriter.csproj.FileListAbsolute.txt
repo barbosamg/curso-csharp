@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\secao13\Aula186StreamWriter\Aula186StreamWriter\bin\Debug\netcoreapp2.1\Aula186StreamWriter.deps.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula186StreamWriter\Aula186StreamWriter\bin\Debug\netcoreapp2.1\Aula186StreamWriter.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula186StreamWriter\Aula186StreamWriter\bin\Debug\netcoreapp2.1\Aula186StreamWriter.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula186StreamWriter\Aula186StreamWriter\bin\Debug\netcoreapp2.1\Aula186StreamWriter.dll
+C:\wamp64\www\UDEMY\c#\secao13\Aula186StreamWriter\Aula186StreamWriter\bin\Debug\netcoreapp2.1\Aula186StreamWriter.pdb
+C:\wamp64\www\UDEMY\c#\secao13\Aula186StreamWriter\Aula186StreamWriter\obj\Debug\netcoreapp2.1\Aula186StreamWriter.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula186StreamWriter\Aula186StreamWriter\obj\Debug\netcoreapp2.1\Aula186StreamWriter.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula186StreamWriter\Aula186StreamWriter\obj\Debug\netcoreapp2.1\Aula186StreamWriter.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula186StreamWriter\Aula186StreamWriter\obj\Debug\netcoreapp2.1\Aula186StreamWriter.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao13\Aula186StreamWriter\Aula186StreamWriter\obj\Debug\netcoreapp2.1\Aula186StreamWriter.dll
+C:\wamp64\www\UDEMY\c#\secao13\Aula186StreamWriter\Aula186StreamWriter\obj\Debug\netcoreapp2.1\Aula186StreamWriter.pdb

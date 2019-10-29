@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula80ExercicioMatriz\bin\Debug\netcoreapp2.1\Aula80ExercicioMatriz.deps.json
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula80ExercicioMatriz\bin\Debug\netcoreapp2.1\Aula80ExercicioMatriz.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula80ExercicioMatriz\bin\Debug\netcoreapp2.1\Aula80ExercicioMatriz.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula80ExercicioMatriz\bin\Debug\netcoreapp2.1\Aula80ExercicioMatriz.dll
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula80ExercicioMatriz\bin\Debug\netcoreapp2.1\Aula80ExercicioMatriz.pdb
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula80ExercicioMatriz\obj\Debug\netcoreapp2.1\Aula80ExercicioMatriz.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula80ExercicioMatriz\obj\Debug\netcoreapp2.1\Aula80ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula80ExercicioMatriz\obj\Debug\netcoreapp2.1\Aula80ExercicioMatriz.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula80ExercicioMatriz\obj\Debug\netcoreapp2.1\Aula80ExercicioMatriz.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula80ExercicioMatriz\obj\Debug\netcoreapp2.1\Aula80ExercicioMatriz.dll
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula80ExercicioMatriz\obj\Debug\netcoreapp2.1\Aula80ExercicioMatriz.pdb

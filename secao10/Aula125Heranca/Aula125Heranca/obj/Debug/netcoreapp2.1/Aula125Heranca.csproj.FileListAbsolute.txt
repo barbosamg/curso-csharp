@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\secao10\Aula125Heranca\Aula125Heranca\bin\Debug\netcoreapp2.1\Aula125Heranca.deps.json
+C:\wamp64\www\UDEMY\c#\secao10\Aula125Heranca\Aula125Heranca\bin\Debug\netcoreapp2.1\Aula125Heranca.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao10\Aula125Heranca\Aula125Heranca\bin\Debug\netcoreapp2.1\Aula125Heranca.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao10\Aula125Heranca\Aula125Heranca\bin\Debug\netcoreapp2.1\Aula125Heranca.dll
+C:\wamp64\www\UDEMY\c#\secao10\Aula125Heranca\Aula125Heranca\bin\Debug\netcoreapp2.1\Aula125Heranca.pdb
+C:\wamp64\www\UDEMY\c#\secao10\Aula125Heranca\Aula125Heranca\obj\Debug\netcoreapp2.1\Aula125Heranca.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\secao10\Aula125Heranca\Aula125Heranca\obj\Debug\netcoreapp2.1\Aula125Heranca.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao10\Aula125Heranca\Aula125Heranca\obj\Debug\netcoreapp2.1\Aula125Heranca.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao10\Aula125Heranca\Aula125Heranca\obj\Debug\netcoreapp2.1\Aula125Heranca.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao10\Aula125Heranca\Aula125Heranca\obj\Debug\netcoreapp2.1\Aula125Heranca.dll
+C:\wamp64\www\UDEMY\c#\secao10\Aula125Heranca\Aula125Heranca\obj\Debug\netcoreapp2.1\Aula125Heranca.pdb

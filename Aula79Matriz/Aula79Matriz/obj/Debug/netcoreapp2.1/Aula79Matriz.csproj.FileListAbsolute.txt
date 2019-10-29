@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula79Matriz\Aula79Matriz\bin\Debug\netcoreapp2.1\Aula79Matriz.deps.json
+C:\wamp64\www\UDEMY\c#\Aula79Matriz\Aula79Matriz\bin\Debug\netcoreapp2.1\Aula79Matriz.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula79Matriz\Aula79Matriz\bin\Debug\netcoreapp2.1\Aula79Matriz.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula79Matriz\Aula79Matriz\bin\Debug\netcoreapp2.1\Aula79Matriz.dll
+C:\wamp64\www\UDEMY\c#\Aula79Matriz\Aula79Matriz\bin\Debug\netcoreapp2.1\Aula79Matriz.pdb
+C:\wamp64\www\UDEMY\c#\Aula79Matriz\Aula79Matriz\obj\Debug\netcoreapp2.1\Aula79Matriz.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\Aula79Matriz\Aula79Matriz\obj\Debug\netcoreapp2.1\Aula79Matriz.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula79Matriz\Aula79Matriz\obj\Debug\netcoreapp2.1\Aula79Matriz.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula79Matriz\Aula79Matriz\obj\Debug\netcoreapp2.1\Aula79Matriz.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula79Matriz\Aula79Matriz\obj\Debug\netcoreapp2.1\Aula79Matriz.dll
+C:\wamp64\www\UDEMY\c#\Aula79Matriz\Aula79Matriz\obj\Debug\netcoreapp2.1\Aula79Matriz.pdb

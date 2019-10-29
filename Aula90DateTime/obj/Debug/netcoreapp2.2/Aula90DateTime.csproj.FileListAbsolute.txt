@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula90DateTime\bin\Debug\netcoreapp2.2\Aula90DateTime.deps.json
+C:\wamp64\www\UDEMY\c#\Aula90DateTime\bin\Debug\netcoreapp2.2\Aula90DateTime.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula90DateTime\bin\Debug\netcoreapp2.2\Aula90DateTime.runtimeconfig.dev.json
+c:\wamp64\www\UDEMY\c#\Aula90DateTime\bin\Debug\netcoreapp2.2\Aula90DateTime.dll
+c:\wamp64\www\UDEMY\c#\Aula90DateTime\bin\Debug\netcoreapp2.2\Aula90DateTime.pdb
+c:\wamp64\www\UDEMY\c#\Aula90DateTime\obj\Debug\netcoreapp2.2\Aula90DateTime.csprojAssemblyReference.cache
+c:\wamp64\www\UDEMY\c#\Aula90DateTime\obj\Debug\netcoreapp2.2\Aula90DateTime.csproj.CoreCompileInputs.cache
+c:\wamp64\www\UDEMY\c#\Aula90DateTime\obj\Debug\netcoreapp2.2\Aula90DateTime.AssemblyInfoInputs.cache
+c:\wamp64\www\UDEMY\c#\Aula90DateTime\obj\Debug\netcoreapp2.2\Aula90DateTime.AssemblyInfo.cs
+c:\wamp64\www\UDEMY\c#\Aula90DateTime\obj\Debug\netcoreapp2.2\Aula90DateTime.dll
+c:\wamp64\www\UDEMY\c#\Aula90DateTime\obj\Debug\netcoreapp2.2\Aula90DateTime.pdb

@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula73ModificadorParametro\Aula73ModificadorParametro\bin\Debug\netcoreapp2.1\Aula73ModificadorParametro.deps.json
+C:\wamp64\www\UDEMY\c#\Aula73ModificadorParametro\Aula73ModificadorParametro\bin\Debug\netcoreapp2.1\Aula73ModificadorParametro.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula73ModificadorParametro\Aula73ModificadorParametro\bin\Debug\netcoreapp2.1\Aula73ModificadorParametro.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula73ModificadorParametro\Aula73ModificadorParametro\bin\Debug\netcoreapp2.1\Aula73ModificadorParametro.dll
+C:\wamp64\www\UDEMY\c#\Aula73ModificadorParametro\Aula73ModificadorParametro\bin\Debug\netcoreapp2.1\Aula73ModificadorParametro.pdb
+C:\wamp64\www\UDEMY\c#\Aula73ModificadorParametro\Aula73ModificadorParametro\obj\Debug\netcoreapp2.1\Aula73ModificadorParametro.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\Aula73ModificadorParametro\Aula73ModificadorParametro\obj\Debug\netcoreapp2.1\Aula73ModificadorParametro.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula73ModificadorParametro\Aula73ModificadorParametro\obj\Debug\netcoreapp2.1\Aula73ModificadorParametro.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula73ModificadorParametro\Aula73ModificadorParametro\obj\Debug\netcoreapp2.1\Aula73ModificadorParametro.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula73ModificadorParametro\Aula73ModificadorParametro\obj\Debug\netcoreapp2.1\Aula73ModificadorParametro.dll
+C:\wamp64\www\UDEMY\c#\Aula73ModificadorParametro\Aula73ModificadorParametro\obj\Debug\netcoreapp2.1\Aula73ModificadorParametro.pdb

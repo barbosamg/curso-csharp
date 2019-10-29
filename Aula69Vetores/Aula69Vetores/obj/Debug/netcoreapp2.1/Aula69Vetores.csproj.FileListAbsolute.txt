@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula69Vetores\Aula69Vetores\bin\Debug\netcoreapp2.1\Aula69Vetores.deps.json
+C:\wamp64\www\UDEMY\c#\Aula69Vetores\Aula69Vetores\bin\Debug\netcoreapp2.1\Aula69Vetores.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula69Vetores\Aula69Vetores\bin\Debug\netcoreapp2.1\Aula69Vetores.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula69Vetores\Aula69Vetores\bin\Debug\netcoreapp2.1\Aula69Vetores.dll
+C:\wamp64\www\UDEMY\c#\Aula69Vetores\Aula69Vetores\bin\Debug\netcoreapp2.1\Aula69Vetores.pdb
+C:\wamp64\www\UDEMY\c#\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp2.1\Aula69Vetores.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp2.1\Aula69Vetores.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp2.1\Aula69Vetores.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp2.1\Aula69Vetores.dll
+C:\wamp64\www\UDEMY\c#\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp2.1\Aula69Vetores.pdb
+C:\wamp64\www\UDEMY\c#\Aula69Vetores\Aula69Vetores\obj\Debug\netcoreapp2.1\Aula69Vetores.csprojAssemblyReference.cache

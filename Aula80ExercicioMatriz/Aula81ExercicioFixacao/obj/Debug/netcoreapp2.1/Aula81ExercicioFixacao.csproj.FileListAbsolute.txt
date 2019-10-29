@@ -1,0 +1,10 @@
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula81ExercicioFixacao\bin\Debug\netcoreapp2.1\Aula81ExercicioFixacao.deps.json
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula81ExercicioFixacao\bin\Debug\netcoreapp2.1\Aula81ExercicioFixacao.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula81ExercicioFixacao\bin\Debug\netcoreapp2.1\Aula81ExercicioFixacao.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula81ExercicioFixacao\bin\Debug\netcoreapp2.1\Aula81ExercicioFixacao.dll
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula81ExercicioFixacao\bin\Debug\netcoreapp2.1\Aula81ExercicioFixacao.pdb
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula81ExercicioFixacao\obj\Debug\netcoreapp2.1\Aula81ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula81ExercicioFixacao\obj\Debug\netcoreapp2.1\Aula81ExercicioFixacao.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula81ExercicioFixacao\obj\Debug\netcoreapp2.1\Aula81ExercicioFixacao.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula81ExercicioFixacao\obj\Debug\netcoreapp2.1\Aula81ExercicioFixacao.dll
+C:\wamp64\www\UDEMY\c#\Aula80ExercicioMatriz\Aula81ExercicioFixacao\obj\Debug\netcoreapp2.1\Aula81ExercicioFixacao.pdb

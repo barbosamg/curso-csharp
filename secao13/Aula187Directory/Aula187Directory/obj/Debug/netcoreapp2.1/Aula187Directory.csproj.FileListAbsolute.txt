@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\Aula187Directory\Aula187Directory\bin\Debug\netcoreapp2.1\Aula187Directory.deps.json
+C:\Users\mateu\source\repos\Aula187Directory\Aula187Directory\bin\Debug\netcoreapp2.1\Aula187Directory.runtimeconfig.json
+C:\Users\mateu\source\repos\Aula187Directory\Aula187Directory\bin\Debug\netcoreapp2.1\Aula187Directory.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\Aula187Directory\Aula187Directory\bin\Debug\netcoreapp2.1\Aula187Directory.dll
+C:\Users\mateu\source\repos\Aula187Directory\Aula187Directory\bin\Debug\netcoreapp2.1\Aula187Directory.pdb
+C:\Users\mateu\source\repos\Aula187Directory\Aula187Directory\obj\Debug\netcoreapp2.1\Aula187Directory.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\Aula187Directory\Aula187Directory\obj\Debug\netcoreapp2.1\Aula187Directory.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\Aula187Directory\Aula187Directory\obj\Debug\netcoreapp2.1\Aula187Directory.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\Aula187Directory\Aula187Directory\obj\Debug\netcoreapp2.1\Aula187Directory.AssemblyInfo.cs
+C:\Users\mateu\source\repos\Aula187Directory\Aula187Directory\obj\Debug\netcoreapp2.1\Aula187Directory.dll
+C:\Users\mateu\source\repos\Aula187Directory\Aula187Directory\obj\Debug\netcoreapp2.1\Aula187Directory.pdb

@@ -1,0 +1,10 @@
+C:\wamp64\www\UDEMY\c#\secao13\Aula188Path\Aula188Path\bin\Debug\netcoreapp2.1\Aula188Path.deps.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula188Path\Aula188Path\bin\Debug\netcoreapp2.1\Aula188Path.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula188Path\Aula188Path\bin\Debug\netcoreapp2.1\Aula188Path.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula188Path\Aula188Path\bin\Debug\netcoreapp2.1\Aula188Path.dll
+C:\wamp64\www\UDEMY\c#\secao13\Aula188Path\Aula188Path\bin\Debug\netcoreapp2.1\Aula188Path.pdb
+C:\wamp64\www\UDEMY\c#\secao13\Aula188Path\Aula188Path\obj\Debug\netcoreapp2.1\Aula188Path.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula188Path\Aula188Path\obj\Debug\netcoreapp2.1\Aula188Path.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula188Path\Aula188Path\obj\Debug\netcoreapp2.1\Aula188Path.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao13\Aula188Path\Aula188Path\obj\Debug\netcoreapp2.1\Aula188Path.dll
+C:\wamp64\www\UDEMY\c#\secao13\Aula188Path\Aula188Path\obj\Debug\netcoreapp2.1\Aula188Path.pdb

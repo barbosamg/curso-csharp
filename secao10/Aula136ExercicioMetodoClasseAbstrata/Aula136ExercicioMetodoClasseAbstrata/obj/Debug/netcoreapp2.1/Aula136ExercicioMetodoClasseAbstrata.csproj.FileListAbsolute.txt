@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\secao10\Aula136ExercicioMetodoClasseAbstrata\Aula136ExercicioMetodoClasseAbstrata\bin\Debug\netcoreapp2.1\Aula136ExercicioMetodoClasseAbstrata.deps.json
+C:\wamp64\www\UDEMY\c#\secao10\Aula136ExercicioMetodoClasseAbstrata\Aula136ExercicioMetodoClasseAbstrata\bin\Debug\netcoreapp2.1\Aula136ExercicioMetodoClasseAbstrata.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao10\Aula136ExercicioMetodoClasseAbstrata\Aula136ExercicioMetodoClasseAbstrata\bin\Debug\netcoreapp2.1\Aula136ExercicioMetodoClasseAbstrata.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao10\Aula136ExercicioMetodoClasseAbstrata\Aula136ExercicioMetodoClasseAbstrata\bin\Debug\netcoreapp2.1\Aula136ExercicioMetodoClasseAbstrata.dll
+C:\wamp64\www\UDEMY\c#\secao10\Aula136ExercicioMetodoClasseAbstrata\Aula136ExercicioMetodoClasseAbstrata\bin\Debug\netcoreapp2.1\Aula136ExercicioMetodoClasseAbstrata.pdb
+C:\wamp64\www\UDEMY\c#\secao10\Aula136ExercicioMetodoClasseAbstrata\Aula136ExercicioMetodoClasseAbstrata\obj\Debug\netcoreapp2.1\Aula136ExercicioMetodoClasseAbstrata.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\secao10\Aula136ExercicioMetodoClasseAbstrata\Aula136ExercicioMetodoClasseAbstrata\obj\Debug\netcoreapp2.1\Aula136ExercicioMetodoClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao10\Aula136ExercicioMetodoClasseAbstrata\Aula136ExercicioMetodoClasseAbstrata\obj\Debug\netcoreapp2.1\Aula136ExercicioMetodoClasseAbstrata.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao10\Aula136ExercicioMetodoClasseAbstrata\Aula136ExercicioMetodoClasseAbstrata\obj\Debug\netcoreapp2.1\Aula136ExercicioMetodoClasseAbstrata.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao10\Aula136ExercicioMetodoClasseAbstrata\Aula136ExercicioMetodoClasseAbstrata\obj\Debug\netcoreapp2.1\Aula136ExercicioMetodoClasseAbstrata.dll
+C:\wamp64\www\UDEMY\c#\secao10\Aula136ExercicioMetodoClasseAbstrata\Aula136ExercicioMetodoClasseAbstrata\obj\Debug\netcoreapp2.1\Aula136ExercicioMetodoClasseAbstrata.pdb

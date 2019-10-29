@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\Aula89FuncoesString\Aula89FuncoesString\bin\Debug\netcoreapp2.1\Aula89FuncoesString.deps.json
+C:\wamp64\www\UDEMY\c#\Aula89FuncoesString\Aula89FuncoesString\bin\Debug\netcoreapp2.1\Aula89FuncoesString.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\Aula89FuncoesString\Aula89FuncoesString\bin\Debug\netcoreapp2.1\Aula89FuncoesString.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\Aula89FuncoesString\Aula89FuncoesString\bin\Debug\netcoreapp2.1\Aula89FuncoesString.dll
+C:\wamp64\www\UDEMY\c#\Aula89FuncoesString\Aula89FuncoesString\bin\Debug\netcoreapp2.1\Aula89FuncoesString.pdb
+C:\wamp64\www\UDEMY\c#\Aula89FuncoesString\Aula89FuncoesString\obj\Debug\netcoreapp2.1\Aula89FuncoesString.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula89FuncoesString\Aula89FuncoesString\obj\Debug\netcoreapp2.1\Aula89FuncoesString.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\Aula89FuncoesString\Aula89FuncoesString\obj\Debug\netcoreapp2.1\Aula89FuncoesString.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\Aula89FuncoesString\Aula89FuncoesString\obj\Debug\netcoreapp2.1\Aula89FuncoesString.dll
+C:\wamp64\www\UDEMY\c#\Aula89FuncoesString\Aula89FuncoesString\obj\Debug\netcoreapp2.1\Aula89FuncoesString.pdb
+C:\wamp64\www\UDEMY\c#\Aula89FuncoesString\Aula89FuncoesString\obj\Debug\netcoreapp2.1\Aula89FuncoesString.csprojAssemblyReference.cache

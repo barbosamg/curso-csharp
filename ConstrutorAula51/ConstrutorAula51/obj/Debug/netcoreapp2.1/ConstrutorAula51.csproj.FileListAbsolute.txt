@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\ConstrutorAula51\ConstrutorAula51\bin\Debug\netcoreapp2.1\ConstrutorAula51.deps.json
+C:\wamp64\www\UDEMY\c#\ConstrutorAula51\ConstrutorAula51\bin\Debug\netcoreapp2.1\ConstrutorAula51.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\ConstrutorAula51\ConstrutorAula51\bin\Debug\netcoreapp2.1\ConstrutorAula51.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\ConstrutorAula51\ConstrutorAula51\bin\Debug\netcoreapp2.1\ConstrutorAula51.dll
+C:\wamp64\www\UDEMY\c#\ConstrutorAula51\ConstrutorAula51\bin\Debug\netcoreapp2.1\ConstrutorAula51.pdb
+C:\wamp64\www\UDEMY\c#\ConstrutorAula51\ConstrutorAula51\obj\Debug\netcoreapp2.1\ConstrutorAula51.csprojAssemblyReference.cache
+C:\wamp64\www\UDEMY\c#\ConstrutorAula51\ConstrutorAula51\obj\Debug\netcoreapp2.1\ConstrutorAula51.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\ConstrutorAula51\ConstrutorAula51\obj\Debug\netcoreapp2.1\ConstrutorAula51.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\ConstrutorAula51\ConstrutorAula51\obj\Debug\netcoreapp2.1\ConstrutorAula51.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\ConstrutorAula51\ConstrutorAula51\obj\Debug\netcoreapp2.1\ConstrutorAula51.dll
+C:\wamp64\www\UDEMY\c#\ConstrutorAula51\ConstrutorAula51\obj\Debug\netcoreapp2.1\ConstrutorAula51.pdb

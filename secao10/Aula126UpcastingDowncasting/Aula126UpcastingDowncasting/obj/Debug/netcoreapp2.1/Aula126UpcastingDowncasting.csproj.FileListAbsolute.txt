@@ -1,0 +1,11 @@
+C:\wamp64\www\UDEMY\c#\secao10\Aula126UpcastingDowncasting\Aula126UpcastingDowncasting\bin\Debug\netcoreapp2.1\Aula126UpcastingDowncasting.deps.json
+C:\wamp64\www\UDEMY\c#\secao10\Aula126UpcastingDowncasting\Aula126UpcastingDowncasting\bin\Debug\netcoreapp2.1\Aula126UpcastingDowncasting.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao10\Aula126UpcastingDowncasting\Aula126UpcastingDowncasting\bin\Debug\netcoreapp2.1\Aula126UpcastingDowncasting.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao10\Aula126UpcastingDowncasting\Aula126UpcastingDowncasting\bin\Debug\netcoreapp2.1\Aula126UpcastingDowncasting.dll
+C:\wamp64\www\UDEMY\c#\secao10\Aula126UpcastingDowncasting\Aula126UpcastingDowncasting\bin\Debug\netcoreapp2.1\Aula126UpcastingDowncasting.pdb
+C:\wamp64\www\UDEMY\c#\secao10\Aula126UpcastingDowncasting\Aula126UpcastingDowncasting\obj\Debug\netcoreapp2.1\Aula126UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao10\Aula126UpcastingDowncasting\Aula126UpcastingDowncasting\obj\Debug\netcoreapp2.1\Aula126UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao10\Aula126UpcastingDowncasting\Aula126UpcastingDowncasting\obj\Debug\netcoreapp2.1\Aula126UpcastingDowncasting.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao10\Aula126UpcastingDowncasting\Aula126UpcastingDowncasting\obj\Debug\netcoreapp2.1\Aula126UpcastingDowncasting.dll
+C:\wamp64\www\UDEMY\c#\secao10\Aula126UpcastingDowncasting\Aula126UpcastingDowncasting\obj\Debug\netcoreapp2.1\Aula126UpcastingDowncasting.pdb
+C:\wamp64\www\UDEMY\c#\secao10\Aula126UpcastingDowncasting\Aula126UpcastingDowncasting\obj\Debug\netcoreapp2.1\Aula126UpcastingDowncasting.csprojAssemblyReference.cache

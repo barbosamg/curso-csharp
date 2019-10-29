@@ -1,0 +1,10 @@
+C:\wamp64\www\UDEMY\c#\secao13\Aula185BlocoUsing\Aula185BlocoUsing\bin\Debug\netcoreapp2.1\Aula185BlocoUsing.deps.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula185BlocoUsing\Aula185BlocoUsing\bin\Debug\netcoreapp2.1\Aula185BlocoUsing.runtimeconfig.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula185BlocoUsing\Aula185BlocoUsing\bin\Debug\netcoreapp2.1\Aula185BlocoUsing.runtimeconfig.dev.json
+C:\wamp64\www\UDEMY\c#\secao13\Aula185BlocoUsing\Aula185BlocoUsing\bin\Debug\netcoreapp2.1\Aula185BlocoUsing.dll
+C:\wamp64\www\UDEMY\c#\secao13\Aula185BlocoUsing\Aula185BlocoUsing\bin\Debug\netcoreapp2.1\Aula185BlocoUsing.pdb
+C:\wamp64\www\UDEMY\c#\secao13\Aula185BlocoUsing\Aula185BlocoUsing\obj\Debug\netcoreapp2.1\Aula185BlocoUsing.csproj.CoreCompileInputs.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula185BlocoUsing\Aula185BlocoUsing\obj\Debug\netcoreapp2.1\Aula185BlocoUsing.AssemblyInfoInputs.cache
+C:\wamp64\www\UDEMY\c#\secao13\Aula185BlocoUsing\Aula185BlocoUsing\obj\Debug\netcoreapp2.1\Aula185BlocoUsing.AssemblyInfo.cs
+C:\wamp64\www\UDEMY\c#\secao13\Aula185BlocoUsing\Aula185BlocoUsing\obj\Debug\netcoreapp2.1\Aula185BlocoUsing.dll
+C:\wamp64\www\UDEMY\c#\secao13\Aula185BlocoUsing\Aula185BlocoUsing\obj\Debug\netcoreapp2.1\Aula185BlocoUsing.pdb
