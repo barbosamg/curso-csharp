@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\wamp64\\www\\UDEMY\\c#\\secao13\\Aula184FileStreamReader\\Aula184FileStreamReader\\Aula184FileStreamReader.csproj",
+      "projectUniqueName": "C:\\softwares\\UDEMY\\c#\\secao13\\Aula184FileStreamReader\\Aula184FileStreamReader\\Aula184FileStreamReader.csproj",
       "projectName": "Aula184FileStreamReader",
-      "projectPath": "C:\\wamp64\\www\\UDEMY\\c#\\secao13\\Aula184FileStreamReader\\Aula184FileStreamReader\\Aula184FileStreamReader.csproj",
+      "projectPath": "C:\\softwares\\UDEMY\\c#\\secao13\\Aula184FileStreamReader\\Aula184FileStreamReader\\Aula184FileStreamReader.csproj",
       "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp64\\www\\UDEMY\\c#\\secao13\\Aula184FileStreamReader\\Aula184FileStreamReader\\obj\\",
+      "outputPath": "C:\\softwares\\UDEMY\\c#\\secao13\\Aula184FileStreamReader\\Aula184FileStreamReader\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

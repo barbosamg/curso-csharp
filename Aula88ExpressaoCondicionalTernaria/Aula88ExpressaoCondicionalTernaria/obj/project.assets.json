@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\wamp64\\www\\UDEMY\\c#\\Aula88ExpressaoCondicionalTernaria\\Aula88ExpressaoCondicionalTernaria\\Aula88ExpressaoCondicionalTernaria.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\UDEMY\\c#\\Aula88ExpressaoCondicionalTernaria\\Aula88ExpressaoCondicionalTernaria\\Aula88ExpressaoCondicionalTernaria.csproj",
       "projectName": "Aula88ExpressaoCondicionalTernaria",
-      "projectPath": "C:\\wamp64\\www\\UDEMY\\c#\\Aula88ExpressaoCondicionalTernaria\\Aula88ExpressaoCondicionalTernaria\\Aula88ExpressaoCondicionalTernaria.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\UDEMY\\c#\\Aula88ExpressaoCondicionalTernaria\\Aula88ExpressaoCondicionalTernaria\\Aula88ExpressaoCondicionalTernaria.csproj",
       "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp64\\www\\UDEMY\\c#\\Aula88ExpressaoCondicionalTernaria\\Aula88ExpressaoCondicionalTernaria\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\UDEMY\\c#\\Aula88ExpressaoCondicionalTernaria\\Aula88ExpressaoCondicionalTernaria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\wamp64\\www\\UDEMY\\c#\\secao11\\Aula141BlocoFinally\\Aula141BlocoFinally\\Aula141BlocoFinally.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\UDEMY\\c#\\secao11\\Aula141BlocoFinally\\Aula141BlocoFinally\\Aula141BlocoFinally.csproj",
       "projectName": "Aula141BlocoFinally",
-      "projectPath": "C:\\wamp64\\www\\UDEMY\\c#\\secao11\\Aula141BlocoFinally\\Aula141BlocoFinally\\Aula141BlocoFinally.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\UDEMY\\c#\\secao11\\Aula141BlocoFinally\\Aula141BlocoFinally\\Aula141BlocoFinally.csproj",
       "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp64\\www\\UDEMY\\c#\\secao11\\Aula141BlocoFinally\\Aula141BlocoFinally\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\UDEMY\\c#\\secao11\\Aula141BlocoFinally\\Aula141BlocoFinally\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

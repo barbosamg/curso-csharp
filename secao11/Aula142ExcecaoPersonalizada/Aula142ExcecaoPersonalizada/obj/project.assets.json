@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\wamp64\\www\\UDEMY\\c#\\secao11\\Aula142ExcecaoPersonalizada\\Aula142ExcecaoPersonalizada\\Aula142ExcecaoPersonalizada.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\UDEMY\\c#\\secao11\\Aula142ExcecaoPersonalizada\\Aula142ExcecaoPersonalizada\\Aula142ExcecaoPersonalizada.csproj",
       "projectName": "Aula142ExcecaoPersonalizada",
-      "projectPath": "C:\\wamp64\\www\\UDEMY\\c#\\secao11\\Aula142ExcecaoPersonalizada\\Aula142ExcecaoPersonalizada\\Aula142ExcecaoPersonalizada.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\UDEMY\\c#\\secao11\\Aula142ExcecaoPersonalizada\\Aula142ExcecaoPersonalizada\\Aula142ExcecaoPersonalizada.csproj",
       "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp64\\www\\UDEMY\\c#\\secao11\\Aula142ExcecaoPersonalizada\\Aula142ExcecaoPersonalizada\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\UDEMY\\c#\\secao11\\Aula142ExcecaoPersonalizada\\Aula142ExcecaoPersonalizada\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

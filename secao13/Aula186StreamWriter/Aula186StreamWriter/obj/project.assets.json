@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\wamp64\\www\\UDEMY\\c#\\secao13\\Aula186StreamWriter\\Aula186StreamWriter\\Aula186StreamWriter.csproj",
+      "projectUniqueName": "C:\\softwares\\UDEMY\\c#\\secao13\\Aula186StreamWriter\\Aula186StreamWriter\\Aula186StreamWriter.csproj",
       "projectName": "Aula186StreamWriter",
-      "projectPath": "C:\\wamp64\\www\\UDEMY\\c#\\secao13\\Aula186StreamWriter\\Aula186StreamWriter\\Aula186StreamWriter.csproj",
+      "projectPath": "C:\\softwares\\UDEMY\\c#\\secao13\\Aula186StreamWriter\\Aula186StreamWriter\\Aula186StreamWriter.csproj",
       "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp64\\www\\UDEMY\\c#\\secao13\\Aula186StreamWriter\\Aula186StreamWriter\\obj\\",
+      "outputPath": "C:\\softwares\\UDEMY\\c#\\secao13\\Aula186StreamWriter\\Aula186StreamWriter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
